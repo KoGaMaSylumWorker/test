@@ -8,4 +8,4 @@
 // @grant        none
 // ==/UserScript==
 console.log(this);
-'lol'
+'loldcf'
