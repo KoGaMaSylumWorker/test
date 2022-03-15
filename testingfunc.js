@@ -11,3 +11,4 @@
 // @run-at			        document-start
 // ==/UserScript==
 console.log(this);
+'lol'
