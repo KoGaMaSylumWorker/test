@@ -1,1 +1,1 @@
-a=(function(){this.log('a')}).bind(console);
+console.log('lmao');
