@@ -3,6 +3,7 @@
 // @run-at			document-start
 // @version			3.3
 // @description	kogama injector
+// @namespace   lolmao
 // @author			Tuba
 // @downloadURL  https://github.com/KoGaMaSylumWorker/test/raw/main/testingfunc.js
 // @match				https://www.kogama.com/page/webgl-frame/*
